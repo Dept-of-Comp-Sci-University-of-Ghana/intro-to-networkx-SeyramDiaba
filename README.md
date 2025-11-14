@@ -116,13 +116,6 @@ This analysis successfully modeled the research group as a network graph and com
 
 The network structure appears healthy and conducive to collaborative research. The presence of multiple high-degree nodes provides redundancy, while peer-to-peer connections foster independent collaboration beyond direct supervision.
 
-### Future Considerations
-
-For continued network health, the group might consider:
-- Encouraging more cross-cluster collaborations
-- Mentoring new members through multiple connections
-- Maintaining the current balance between hierarchical and peer relationships
-
 ---
 
 ## 7. Technical Implementation
@@ -132,14 +125,10 @@ For continued network health, the group might consider:
 - NetworkX 2.8.4 (graph construction and analysis)
 - Matplotlib (visualization)
 
-**Deliverables:**
-1. Python source code: `Assignment1.py`
-2. Network visualization: `network.png`
-3. Gephi-compatible file: `research_group.gexf`
-4. This report: `Assignment1_Report.pdf`\
 
 ## References
 
 NetworkX Documentation. (2025). NetworkX - Network Analysis in Python. Retrieved from https://networkx.org/
+
 
 
