@@ -97,7 +97,7 @@ The absence of isolated nodes indicates:
 - No marginalized members requiring intervention
 
 ## 5. Visualization
-
+<img width="1000" height="800" alt="network" src="https://github.com/user-attachments/assets/dc53a0f8-4d5e-4e99-ad8a-6a9be9ae9c4c" />
 The network visualization (see `network.png`) illustrates:
 - Node size proportional to connections
 - Clear identification of hub members
@@ -130,6 +130,7 @@ The network structure appears healthy and conducive to collaborative research. T
 ## References
 
 NetworkX Documentation. (2025). NetworkX - Network Analysis in Python. Retrieved from https://networkx.org/
+
 
 
 
