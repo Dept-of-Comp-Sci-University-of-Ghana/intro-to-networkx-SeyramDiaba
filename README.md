@@ -128,21 +128,18 @@ For continued network health, the group might consider:
 ## 7. Technical Implementation
 
 **Tools Used:**
-- Python 3.x
-- NetworkX 3.x (graph construction and analysis)
+- Python 3.10
+- NetworkX 2.8.4 (graph construction and analysis)
 - Matplotlib (visualization)
 
 **Deliverables:**
 1. Python source code: `Assignment1.py`
 2. Network visualization: `network.png`
 3. Gephi-compatible file: `research_group.gexf`
-4. This report: `Assignment1_Report.pdf`
-
-**Code Repository:** Available on GitHub at the course assignment repository
----
+4. This report: `Assignment1_Report.pdf`\
 
 ## References
 
 NetworkX Documentation. (2025). NetworkX - Network Analysis in Python. Retrieved from https://networkx.org/
 
-Barabási, A. L. (2016). *Network Science*. Cambridge University Press.
+
