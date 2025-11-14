@@ -1,6 +1,7 @@
 # Assignment 1: Graph Representation of Research Group
 **Social Networks and Graph Analysis**  
 **Student:** Stephen Diaba  
+**Index:** 22424550
 **Date:** November 11, 2025
 
 ---
@@ -129,6 +130,7 @@ The network structure appears healthy and conducive to collaborative research. T
 ## References
 
 NetworkX Documentation. (2025). NetworkX - Network Analysis in Python. Retrieved from https://networkx.org/
+
 
 
 
